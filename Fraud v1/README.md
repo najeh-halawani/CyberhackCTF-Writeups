@@ -20,8 +20,8 @@ or manually :)
 
 ### tplmap 
 
-![tplmap]()
+![tplmap](https://github.com/najeh-halawani/CyberhackCTF-Writeups/blob/master/Fraud%20v1/tplmap.png)
 
 ### manually
 
-![manual ssti]()
+![manual ssti](https://github.com/najeh-halawani/CyberhackCTF-Writeups/blob/master/Fraud%20v1/burp.png)
