@@ -33,4 +33,4 @@ upload zip file ==> Got The Flag
 Zip contents: cyberhack{#symlink_is_za_best}
 ```
 
-![Getting the flag]()
+![Getting the flag](https://github.com/najeh-halawani/CyberhackCTF-Writeups/blob/master/Zippy/flag.png)
