@@ -7,7 +7,7 @@ This is the writeups for Cyberhack CTF
 | Zippy               | [here](https://github.com/najeh-halawani/)          |
 | Fraudv1 | [here](https://github.com/najeh-halawani/)          |
 | Gl1tchy | [here](https://github.com/najeh-halawani/)          |
-| Factory          | [here](https://github.com/          |
+| Factory          | [here](https://github.com/najeh-halawani)          |
 
 
 
