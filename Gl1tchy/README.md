@@ -12,8 +12,8 @@ Glitchs are very annoying, we hate them. Maybe the user stays with you 😉
 
 Apparently the website has nothing, but when reviewing the source code we see the following comment:
 
-![Website Homepage]()
-![Source Code]()
+![Website Homepage](https://github.com/najeh-halawani/CyberhackCTF-Writeups/blob/master/Gl1tchy/homepage.png)
+![Source Code](https://github.com/najeh-halawani/CyberhackCTF-Writeups/blob/master/Gl1tchy/source-code.png)
 
 
 # Read Source code... check XML 
@@ -26,8 +26,8 @@ Apparently the website has nothing, but when reviewing the source code we see th
 </creds>
 ```
 
-#no need for <pass> </pass>
-#final payload
+# No need for <pass> </pass>
+# Final payload
 
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
